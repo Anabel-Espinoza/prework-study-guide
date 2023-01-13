@@ -4,7 +4,6 @@
 
 The objective of this study guide is to help the bootcamp student learn basic coding concepts that will be useful to start the training.
 
-
 ## Installation
 
 N/A
