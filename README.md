@@ -1,8 +1,8 @@
-# Prework Study Guide Webpage
+  # Prework Study Guide Webpage
 
 ## Description
 
-This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
+The objective of this study guide is to help the bootcamp student learn basic coding concepts that will be useful to start the training.
 
 ## Installation
 
@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+The Prework Study Guide includes four main sections: HTML, CSS, JavaScript, and Git. When the DevTools console is open, we can see the JavaScript code running, listing the learning topics and giving a random suggestion on which one to study. 
 
 ## Credits
 
